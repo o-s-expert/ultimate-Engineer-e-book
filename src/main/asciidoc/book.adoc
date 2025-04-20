@@ -38,4 +38,13 @@ ifndef::sourcedir[:sourcedir: ../../main/java]
 
 :sectnums:
 
-include::chapters/introduction.asciidoc[]
+include::chapters/01-introduction.adoc[]
+include::chapters/02-ultimate-engineer.adoc[]
+include::chapters/03-simplicity.adoc[]
+include::chapters/04-architecture.adoc[]
+include::chapters/05-design.adoc[]
+include::chapters/06-documentation.adoc[]
+include::chapters/07-testing.adoc[]
+include::chapters/08-persistence.adoc[]
+include::chapters/09-leadership.adoc[]
+include::chapters/10-about-author.adoc[]
