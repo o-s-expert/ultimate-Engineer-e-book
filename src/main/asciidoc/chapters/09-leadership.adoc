@@ -14,6 +14,12 @@ In modern software development, there is often a gap between management roles (l
 
 A staff engineer and an architect do not replace management roles but complement them. The staff engineer combines hard and soft skills, bridging software development's technical and human aspects. They communicate effectively, handle complex problems, and align engineering efforts with organizational goals.
 
+[[fig-engineer-pillars]]
+image::../images/ultimate-engineer-pillars.png[Ultimate Engineer Pillars, width=80%, align=center]
+.Caption: Key pillars that define the impact of an Ultimate Engineer.
+
+
+
 === Becoming a Staff Engineer
 
 For those interested in focusing solely on technical aspects, the staff engineer role may not be suitable. This position requires developing leadership capabilities, including soft skills. A staff engineer works with technical and non-technical team members, requiring a balance of technical depth and the ability to influence and inspire others.

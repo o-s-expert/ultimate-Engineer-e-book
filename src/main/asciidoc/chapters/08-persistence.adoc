@@ -11,6 +11,11 @@ The persistence layer connects the application and the database, bringing unique
 
 Databases and applications often operate with differing paradigms, creating friction. Applications like those written in Java rely on polymorphism, inheritance, and encapsulation principles. In contrast, databases emphasize normalization and denormalization. This mismatch necessitates using mappers and adapters to bridge the two worlds, a problem commonly called *impedance mismatch*.
 
+[[fig-mapping-mismatch]]
+image::../images/application-database-mismatch.png[Mapping mismatch between application and database, width=85%, align=center]
+.Caption: Mapping mismatch challenges caused by application and database paradigm differences.
+
+
 To address this gap, several patterns are employed:
 
 * *Data Access Object (DAO)*: Encapsulates database access, hiding SQL queries from the business logic.
@@ -18,6 +23,12 @@ To address this gap, several patterns are employed:
 * *Driver*: Provides direct interaction with the database at a lower abstraction level.
 
 Patterns closer to the database tend to expose data and hide behavior, while those closer to the application do the opposite, encapsulating data to expose behavior. Striking the right balance depends on the use case and architectural goals.
+
+[[fig-persistence-patterns]]
+image::../images/persistence-patterns.png[Persistence patterns from DAO to Repository, width=85%, align=center]
+.Caption: Bridging databases and applications using persistence patterns.
+
+
 
 === Types of Databases
 

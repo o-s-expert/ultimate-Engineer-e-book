@@ -14,6 +14,11 @@ To elaborate, let’s break this down further, borrowing insights from some of t
 * _Building Microservices_ by Sam Newman
 * _Fundamentals of Software Architecture_ by Mark Richards and Neal Ford
 
+
+[[fig-architecture-books]]
+image::../images/architecture-books.png[Software Architecture Books, width=80%, align=center]
+.Caption: Some of the most influential books on Software Architecture.
+
 === Defining Software Architecture
 
 Based on these resources and my own experience, I define software architecture as:
@@ -23,6 +28,12 @@ Based on these resources and my own experience, I define software architecture a
 * *The mix*: A harmonious integration of software components and the people who build and use them.
 
 This clarity of purpose is essential. As Richards and Ford outline in _Fundamentals of Software Architecture_, the "why" is more important than the "how," and every decision involves trade-offs. There are no perfect solutions or silver bullets—only well-reasoned choices.
+
+
+[[fig-blue-spectrum]]
+image::../images/blue-palette-spectrum.png[Color palette showing tactical to strategic spectrum, width=70%, align=center]
+.Caption: The gradient from tactical (left) to strategic (right) decisions in software.
+
 
 === Software Architecture and People
 

@@ -14,6 +14,11 @@ Testing spans various levels and types, each serving a distinct purpose:
 * *Integration Tests*: Focus on interactions between components, verifying that systems work together as intended.
 * *UI Tests*: Validate the entire application flow. While more expensive to create and run, they ensure multiple system layers.
 
+[[fig-test-pyramid]]
+image::../images/test-pyramid.png[Test pyramid structure, width=50%, align=center]
+.Caption: The Practical Test Pyramid for structuring test types by coverage and cost.
+
+
 This testing distribution is often visualized in the *Practical Test Pyramid*, where unit tests form the broad base, integration tests occupy the middle, and UI tests sit at the tip.
 
 === Balancing Test Types

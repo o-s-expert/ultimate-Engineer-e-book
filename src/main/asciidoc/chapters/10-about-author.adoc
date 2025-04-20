@@ -1,5 +1,9 @@
 == About the Author: Otávio Santana
 
+[[fig-author-otavio]]
+image::../images/author-otavio-santana.jpg[Otávio Santana workspace photo, width=80%, align=center]
+.Caption: Otávio Santana, the author of *The Ultimate Engineer*, in his workspace.
+
 
 Otávio empowers software engineers to deliver highly scalable and efficient cloud-based software. By leveraging sophisticated techniques and best practices in open source, he helps engineers become more productive, influential, and ready to elevate their technical careers to the next level.
 

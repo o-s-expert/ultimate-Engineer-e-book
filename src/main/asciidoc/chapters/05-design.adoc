@@ -8,6 +8,10 @@ Like software architecture, software design also has multiple definitions. Howev
 
 Good software design builds upon a strong architectural foundation. As John Ousterhout outlined in _Philosophy of Software Design_, there is a clear distinction between focusing solely on tactics and integrating them into a broader strategy. While a tactical approach may seem faster initially, its effectiveness diminishes without strategic alignment. Over time, the benefits of thoughtful, strategic design become evident through better scalability, maintainability, and adaptability.
 
+[[fig-strategic-tactical]]
+image::../images/strategic-vs-tactical-curve.png[Strategic vs Tactical Growth Curve, width=60%, align=center]
+.Caption: How strategic efforts grow in value over time compared to tactical ones.
+
 This concept is mirrored in Domain-Driven Design (DDD). Effective software design relies on strategic DDD principles, such as ubiquitous language and bounded contexts, to inform tactical decisions. Naming entities, repositories, or methods without considering these strategic elements may lead to misaligned implementations. Strategic guidance ensures that tactical patterns and practices, like aggregates or value objects, align with the broader business goals.
 
 === General Principles vs. Contextual Decisions
