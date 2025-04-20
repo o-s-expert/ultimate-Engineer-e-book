@@ -1,6 +1,5 @@
 == About the Author: Otávio Santana
 
-image::image1[]
 
 Otávio empowers software engineers to deliver highly scalable and efficient cloud-based software. By leveraging sophisticated techniques and best practices in open source, he helps engineers become more productive, influential, and ready to elevate their technical careers to the next level.
 
