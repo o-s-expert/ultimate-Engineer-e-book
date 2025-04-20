@@ -113,6 +113,7 @@
                     <attributes>
                         <pdf-themesdir>${project.basedir}/src/theme</pdf-themesdir>
                         <pdf-theme>book</pdf-theme>
+                        <epub3>true</epub3>
                         <license>Apache License v2.0</license>
                         <specification>${book.name}</specification>
                         <revnumber>${book.edition}</revnumber>

@@ -19,7 +19,7 @@ To become an ultimate engineer, an individual has to master the following six co
 
 
 [[fig-context-tree]]
-image::context-tree.png[Ultimate Engineer Context Tree, width=85%, align=center]
+image::../images/context-tree.png[Ultimate Engineer Context Tree, width=85%, align=center]
 .Caption: Contextual knowledge tree covering the six core areas of the Ultimate Engineer.
 
 These six pillars form the foundation of the ultimate engineer, equipping professionals to profoundly impact their teams and organizations while unlocking better career opportunities. Rarely do these professionals exist, but you can become one by mastering these principles. This book will guide you along the way.
