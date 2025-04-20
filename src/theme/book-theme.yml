@@ -45,6 +45,8 @@ prose:
 image:
   width: 70%
   align: center
+  padding-top: 24
+  padding-bottom: 24
 
 codespan:
   font:
@@ -136,3 +138,12 @@ title_page:
     font_color: #1D5183
   revision:
     margin_top: $base_font_size * 1.25
+
+caption:
+  font:
+    family: "Montserrat"
+    size: 9
+    color: #666666
+    style: italic
+  margin-top: 16
+  margin-bottom: 24
