@@ -30,7 +30,6 @@
 ifdef::backend-pdf[]
 :pagenums:
 :numbered:
-:title-logo-image: image:jakarta_ee_logo_schooner_color_stacked_default.png[pdfwidth=4.25in,align=right]
 endif::[]
 :icons: font
 ifndef::imagesdir[:imagesdir: images]
