@@ -109,13 +109,15 @@
                     </requires>
                     <embedAssets>true</embedAssets>
                     <attributes>
+                        <pdf-themesdir>${project.basedir}/src/theme</pdf-themesdir>
+                        <pdf-theme>book</pdf-theme>
                         <license>Apache License v2.0</license>
                         <specification>${book.name}</specification>
                         <revnumber>${book.edition}</revnumber>
                         <revremark>${revremark}</revremark>
                         <revdate>${revisiondate}</revdate>
                         <sourceHighlighter>coderay</sourceHighlighter>
-                        <doctitle>Jakarta Data</doctitle>
+                        <doctitle>Ultimate Engineer</doctitle>
                     </attributes>
                 </configuration>
             </plugin>

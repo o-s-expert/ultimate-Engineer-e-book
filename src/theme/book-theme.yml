@@ -7,10 +7,10 @@ page:
 font:
   catalog:
     Montserrat:
-      normal: fonts/montserrat-regular.ttf
-      bold: fonts/montserrat-bold.ttf
-      italic: fonts/montserrat-italic.ttf
-      bold_italic: fonts/montserrat-bolditalic.ttf
+      normal: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/montserrat-regular.ttf
+      bold: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/montserrat-bold.ttf
+      italic: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/montserrat-italic.ttf
+      bold_italic: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/montserrat-boldItalic.ttf
   fallbacks:
     - Montserrat
 base:

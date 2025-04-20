@@ -14,9 +14,8 @@
 
 = The Ultimate Engineer: A Roadmap to Simplifying Complexity and Leading with Impact
 :title: The Ultimate Engineer: A Roadmap to Simplifying Complexity and Leading with Impact
-:pdf-theme: {docdir}/../../theme/book-theme.yml
-:authors:
-:email:
+:authors: Otavio Santana
+:email: otavio@os.expert
 :version-label!:
 :doctype: book
 :license: Apache License v2.0
