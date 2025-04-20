@@ -13,6 +13,7 @@ font:
       bold_italic: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/montserrat-boldItalic.ttf
   fallbacks:
     - Montserrat
+
 base:
   font:
     family: Montserrat
