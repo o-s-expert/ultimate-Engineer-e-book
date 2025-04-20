@@ -92,7 +92,7 @@
                     <embedAssets>true</embedAssets>
                     <attributes>
                         <license>Apache License v2.0</license>
-                        <specification>Jakarta Query</specification>
+                        <specification>${book.name}</specification>
                         <revnumber>${spec.version}</revnumber>
                         <revremark>${revremark}</revremark>
                         <revdate>${revisiondate}</revdate>
