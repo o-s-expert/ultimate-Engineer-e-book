@@ -32,7 +32,7 @@
         <asciidoctorj-pdf.version>2.3.19</asciidoctorj-pdf.version>
         <asciidoctorj.diagram.version>2.3.1</asciidoctorj.diagram.version>
         <asciidoctorj-epub3.version>2.1.3</asciidoctorj-epub3.version>
-
+        <book.edition>1</book.edition>
         <maven.build.timestamp.format>MMMM dd, yyyy</maven.build.timestamp.format>
         <revisiondate>${maven.build.timestamp}</revisiondate>
         <revremark>Draft</revremark>
@@ -74,7 +74,7 @@
                         <configuration>
                             <sourceDocumentName>jakarta-query.adoc</sourceDocumentName>
                             <backend>pdf</backend>
-                            <outputFile>${gen-doc-dir}/${book.name}-${spec.version}.pdf</outputFile>
+                            <outputFile>${gen-doc-dir}/${book.name}-${book.edition}.pdf</outputFile>
                         </configuration>
                     </execution>
                     <execution>
@@ -86,7 +86,7 @@
                         <configuration>
                             <sourceDocumentName>jakarta-query.adoc</sourceDocumentName>
                             <backend>html5</backend>
-                            <outputFile>${gen-doc-dir}/${book.name}-${spec.version}.html</outputFile>
+                            <outputFile>${gen-doc-dir}/${book.name}-${book.edition}.html</outputFile>
                         </configuration>
                     </execution>
                     <execution>
@@ -98,7 +98,7 @@
                         <configuration>
                             <sourceDocumentName>jakarta-query.adoc</sourceDocumentName>
                             <backend>epub3</backend>
-                            <outputFile>${gen-doc-dir}/${book.name}-${spec.version}.epub</outputFile>
+                            <outputFile>${gen-doc-dir}/${book.name}-${book.edition}.epub</outputFile>
                         </configuration>
                     </execution>
                 </executions>
@@ -111,7 +111,7 @@
                     <attributes>
                         <license>Apache License v2.0</license>
                         <specification>${book.name}</specification>
-                        <revnumber>${spec.version}</revnumber>
+                        <revnumber>${book.edition}</revnumber>
                         <revremark>${revremark}</revremark>
                         <revdate>${revisiondate}</revdate>
                         <sourceHighlighter>coderay</sourceHighlighter>
