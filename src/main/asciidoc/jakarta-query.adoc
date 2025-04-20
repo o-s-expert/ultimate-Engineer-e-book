@@ -12,8 +12,8 @@
 //
 // SPDX-License-Identifier: EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0
 
-= Jakarta Data
-:title: Jakarta Query
+= The Ultimate Engineer: A Roadmap to Simplifying Complexity and Leading with Impact
+:title: The Ultimate Engineer: A Roadmap to Simplifying Complexity and Leading with Impact
 :pdf-theme: {docdir}/../../theme/book-theme.yml
 :authors:
 :email:
