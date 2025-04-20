@@ -38,6 +38,8 @@ ifndef::sourcedir[:sourcedir: ../../main/java]
 
 :sectnums:
 
+= The Ultimate Engineer
+
 include::chapters/01-introduction.adoc[]
 include::chapters/02-ultimate-engineer.adoc[]
 include::chapters/03-simplicity.adoc[]

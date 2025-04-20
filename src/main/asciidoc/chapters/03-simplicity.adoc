@@ -25,3 +25,4 @@ Simplicity is not just a principle—it’s a practice that underpins every acti
 * Deliver scalable and efficient solutions.
 
 Achieving simplicity requires deliberate effort, disciplined decision-making, and a commitment to continuous improvement. The ultimate engineer transcends biases and complexities through these practices, shaping better software, teams, and organizations.
+
