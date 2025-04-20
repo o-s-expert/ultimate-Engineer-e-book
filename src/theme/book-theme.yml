@@ -11,6 +11,11 @@ font:
       bold: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/montserrat-bold.ttf
       italic: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/montserrat-italic.ttf
       bold_italic: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/montserrat-boldItalic.ttf
+    JetBrainsMono:
+      normal: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/JetBrainsMono-Regular.ttf
+      bold: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/JetBrainsMono-Bold.ttf
+      italic: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/JetBrainsMono-Italic.ttf
+      bold_italic: /Users/otaviosantana/Env/code/workspace-book/ultimate-Engineer-e-book/src/theme/fonts/JetBrainsMono-BoldItalic.ttf
   fallbacks:
     - Montserrat
 
@@ -43,13 +48,13 @@ image:
 
 codespan:
   font:
-    family: Monospace
+    family: JetBrainsMono
     size: 0.95em
     color: #1D5183
 
 code:
   font:
-    family: Monospace
+    family: JetBrainsMono
     size: 0.95em
     color: #1D5183
   border-width: 0
