@@ -1,0 +1,27 @@
+== Simplicity—The Core of an Efficient Software
+
+Humans are often influenced by biases that affect how we approach software development. One notable example is the "broken windows" theory in software—legacy codebases, where removing poor code is more straightforward than improving it. Another pervasive bias is the bias of complexity, a logical fallacy that leads us to give undue credence to overly intricate concepts. When faced with two competing hypotheses, we often choose the more complex one, typically laden with unnecessary assumptions and regressions.
+
+For an ultimate engineer, simplicity is the cornerstone of excellence. But what exactly is simplicity, and why is it so challenging to achieve?
+
+The best definition of simplicity in software engineering comes from the book _Philosophy of Software Design_, which states:
+
+**Complexity is anything related to the structure of a software system that makes it hard to understand and modify the system.**
+
+Complexity in a software system arises from two primary sources: dependencies and obscurity. Dependencies make systems more fragile and complex to manage, while obscurity occurs when critical information is not immediately apparent. Thus, a core goal of software design is to make them as straightforward as possible while ensuring vital information is easily accessible.
+
+The book identifies three symptoms of complexity:
+
+* *Change amplification*: A simple change requires modifications in many places.
+* *Cognitive load*: The knowledge a developer needs to complete a task.
+* *Unknown unknowns*: The difficulty in identifying what code or information is needed to perform a task.
+
+While the third factor is often outside our control, we can mitigate it by addressing the first two—reducing change amplification and minimizing cognitive load.
+
+Simplicity is not just a principle—it’s a practice that underpins every action of an ultimate engineer. By embracing simplicity, ultimate engineers:
+
+* Reduce maintenance overhead.
+* Enhance team productivity.
+* Deliver scalable and efficient solutions.
+
+Achieving simplicity requires deliberate effort, disciplined decision-making, and a commitment to continuous improvement. The ultimate engineer transcends biases and complexities through these practices, shaping better software, teams, and organizations.
