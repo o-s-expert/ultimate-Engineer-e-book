@@ -23,5 +23,3 @@
 
 === Conventions
 
-
-include::project_team.adoc[]
