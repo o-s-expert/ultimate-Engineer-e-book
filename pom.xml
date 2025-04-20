@@ -98,6 +98,9 @@
                         <configuration>
                             <sourceDocumentName>book.adoc</sourceDocumentName>
                             <backend>epub3</backend>
+                            <attributes>
+                                <source-highlighter>coderay</source-highlighter>
+                            </attributes>
                             <outputFile>${gen-doc-dir}/${book.name}-${book.edition}.epub</outputFile>
                         </configuration>
                     </execution>
