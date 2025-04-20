@@ -6,7 +6,7 @@ For an ultimate engineer, simplicity is the cornerstone of excellence. But what 
 
 The best definition of simplicity in software engineering comes from the book _Philosophy of Software Design_, which states:
 
-**Complexity is anything related to the structure of a software system that makes it hard to understand and modify the system.**
+> Complexity is anything related to the structure of a software system that makes it hard to understand and modify the system.
 
 Complexity in a software system arises from two primary sources: dependencies and obscurity. Dependencies make systems more fragile and complex to manage, while obscurity occurs when critical information is not immediately apparent. Thus, a core goal of software design is to make them as straightforward as possible while ensuring vital information is easily accessible.
 
